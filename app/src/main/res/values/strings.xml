@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SecureBeam</string>
+    <string name="app_tagline">Air-Gapped Secure Optical File Transfer</string>
+</resources>
